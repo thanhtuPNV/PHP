@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.add-to-cart {
+  padding: 10px 33px 10px 33px;
+  background-color: #88b44e;
+  border-radius: 100px;
+  margin: 5%;
+  border: 0px;
+  color: white;
+  transition: all 0.5s;
+}
+
+.add-to-cart:hover {
+  background-color: #15181a;
+}
+
+.detail-product{
+    margin-top: 5%;
+}
+
+h1, h4{
+    color: #88b44e;
+}
+
+.col2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}

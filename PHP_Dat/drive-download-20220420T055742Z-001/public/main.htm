@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    body{
+        width: 100vw;
+        height: 100vh;
+        background-color: black;
+    }
+    span{
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        border-radius: 100%;
+        border: 1px solid white;
+        transition: width 1s, height 1s;
+        /* transform: scale(10); */
+    }
+</style>
+
+<body>
+    
+</body>
+
+<script>
+    document.body.addEventListener(
+        'mousemove',
+        () => {
+            let x = event.clientX
+            let y = event.clientY
+            
+            let ele = document.createElement('span')
+            ele.style.top = y + "px"
+            ele.style.left = x + "px"
+
+            document.body.appendChild(ele)
+            setInterval(
+                () => {
+                    ele.style.width = "100px"
+                    ele.style.height = "100px"
+                    
+                },
+                0
+            )
+
+            setInterval(
+                () => {
+                    document.body.removeChild(ele)
+                },
+                300
+            )
+        }
+
+    )
+</script>
+
+</html>

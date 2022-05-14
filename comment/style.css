@@ -1,0 +1,4 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{width: 100%;}
+.posts-wrapper{width: 52%;margin: 0 auto;}
+.posts-image{width: 1000px;height: auto;}

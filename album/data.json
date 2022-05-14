@@ -1,0 +1,513 @@
+[{
+    "idSinger": "2022-4-5-3-pm",
+    "nicknameSinger": "Đen Vâu",
+    "gender": "Nam",
+    "description": "Nguyễn Đức Cường (sinh ngày 13 tháng 5 năm 1989), thường được biết đến với nghệ danh Đen Vâu hay Đen, là một nam rapper và nhạc sĩ người Việt Nam.",
+    "img": "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/06/9/a/7/b/1596692465856_600.jpg",
+    "listAlbum": [{
+        "idAlbum": "2022-4-4-4-pm",
+        "nameAlbum": "Đen",
+        "imgAlbum": "https://photo-playlist-zmp3.zadn.vn/s1/user-playlist?src=HavwqN7EvKCI1oYSFOdq0r9DFvmpYQ43N0StWsRL-b4B3Z3GPzBu0GnTReCtWQ9I3L8vWMAEe0WL3txVRiZo0rvDDuSbdBjK4m5mbZd5l0bM0N2FRedfNG5LTzfhtUfO0bDpsJc8krjK0IpSR8Ym20O7GObgtDi810D3Y6p6XqXI3mNQPut50Gr4KPCtm8b675W8nMg1YKO12KB7Qu7S4GjQ49KqXDX1M5z4bMM4Z1m42XUTEDI1Sb0B6_C_s8rqLWGDhd-8WJ843qRiDjRAParU2w1nnuef1nWBhd6IYYSSJaMb993S8Hv25wLoozfs4aL2eYhAso505qIbA9_OEni44Qbz&size=thumb/240_240",
+        "priceAlbum": 300000,
+        "descriptionAlbum": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nesciunt iste a obcaecati, rerum ullam dicta impedit provident voluptatum temporibus fuga possimus nihil mollitia voluptas qui odit! Facilis, fugiat laudantium?",
+        "listSong": [{
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Đem tiền về cho mẹ",
+            "imgSong": "https://i1-vnexpress.vnecdn.net/2022/01/06/mang-tien-ve-cho-me-5258-1641465411.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=doX2EDXfqoOu7wQIMjAkZA",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/track/57lYw21pS9FprSeJimskIC?si=949b3dee59c9468c&nd=1' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "6 phút 45 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        },
+        {
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Đi Về Nhà",
+            "imgSong": "https://i.ytimg.com/vi/vTJdVE_gjI0/maxresdefault.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt?si=39a5af29edf948af' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "3 phút 20 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        },
+        {
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Lối Nhỏ",
+            "imgSong": "https://i.ytimg.com/vi/KKc_RMln5UY/maxresdefault.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/track/25edeHHueINMguqu9emCyV?si=e047a5bdb00046f0' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "4 phút 12 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        },
+        {
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Trốn Tìm",
+            "imgSong": "https://i.ytimg.com/vi/Ws-QlpSltr8/maxresdefault.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/track/34uOIsoy6ETS2sxOTWBRDF?si=4a1eba0e44184a51' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "4 phút 08 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        },
+        {
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Bài Này Chill Phết",
+            "imgSong": "https://i.ytimg.com/vi/ddaEtFOsFeM/maxresdefault.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/track/2AiZm17zqkV7llT3SHz4Nu?si=c02f785276634bad' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "4 phút 36 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        }]
+    }]
+},
+
+{
+    "idSinger": "2022-4-5-3-pm",
+    "nicknameSinger": "abc",
+    "gender": "male",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat nemo repellat voluptas sapiente illum? Cupiditate facere, cum aut asperiores dolore perferendis? Facilis nostrum deleniti eaque! Exercitationem quo aliquid consequuntur explicabo.",
+    "imgAlbum": "https://event.mediacdn.vn/2020/8/14/st-15973999489741584015103.jpg",
+    "listAlbum": [{
+        "idAlbum": "2022-4-4-4-pm",
+        "nameAlbum": "Gió thu",
+        "imgAlbum": "http://imgs.vietnamnet.vn/Images/vnn/2014/12/18/08/20141218082625-a.jpg",
+        "priceAlbum": 300000,
+        "descriptionAlbum": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nesciunt iste a obcaecati, rerum ullam dicta impedit provident voluptatum temporibus fuga possimus nihil mollitia voluptas qui odit! Facilis, fugiat laudantium?",
+        "listSong": [{
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Chắc ai đó sẽ về",
+            "imgSong": "http://imgs.vietnamnet.vn/Images/vnn/2014/12/18/08/20141218082625-a.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/5Msoarj5hk9LguTtiIyqug?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "4 phút 20 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        }]
+    }]
+},
+
+{
+    "idSinger": "2022-4-5-3-pm",
+    "nicknameSinger": "abc",
+    "gender": "male",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat nemo repellat voluptas sapiente illum? Cupiditate facere, cum aut asperiores dolore perferendis? Facilis nostrum deleniti eaque! Exercitationem quo aliquid consequuntur explicabo.",
+    "imgAlbum": "https://event.mediacdn.vn/2020/8/14/st-15973999489741584015103.jpg",
+    "listAlbum": [{
+        "idAlbum": "2022-4-4-4-pm",
+        "nameAlbum": "Gió thu",
+        "imgAlbum": "http://imgs.vietnamnet.vn/Images/vnn/2014/12/18/08/20141218082625-a.jpg",
+        "priceAlbum": 300000,
+        "descriptionAlbum": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nesciunt iste a obcaecati, rerum ullam dicta impedit provident voluptatum temporibus fuga possimus nihil mollitia voluptas qui odit! Facilis, fugiat laudantium?",
+        "listSong": [{
+            "idSong": "2022-1-1-1-am",
+            "idCategory": "2022-4-7-6-pm",
+            "nameSong": "Chắc ai đó sẽ về",
+            "imgSong": "http://imgs.vietnamnet.vn/Images/vnn/2014/12/18/08/20141218082625-a.jpg",
+            "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/5Msoarj5hk9LguTtiIyqug?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+            "time": "4 phút 20 giây",
+            "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+        }]
+    }]
+}
+
+]
+<?php
+    // $data = json_decode(file_get_contents("data.json"), true);
+    // foreach($data as $singer){
+    //     echo $singer["nicknameSinger"].":<br>";
+    //     foreach($singer["listAlbum"] as $album) {
+    //         echo $album["listSong"].".<br>";
+    //     }
+    // }
+?>
+// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data// data
+[{
+    "idSinger": "2022-4-5-3-pm",
+    "nicknameSinger": "Binz",
+    "nameSinger": "Lê Nguyễn Trung Đan",
+    "gender": "male",
+    "description": "Ca khúc So Far đạt được thành công nhất định khi đạt được 30 triệu lượt nghe khi phát hành bản audio ca khúc trên YouTube. Binz quyết định thu hình và phát hành MV cho ca khúc này. Anh thừa nhận việc phát hành MV là một thất bại của mình, vì MV có phong cách Mỹ không thân thuộc và thói quen nghe bản Audio của thính giả. Nội dung ca từ bài hát cũng một phần truyền tải chuyện tình cảm của nam rapper, với nội dung chính là một chàng trai thầm yêu một cô gái được nhiều người săn đó, do đó quyết định giữ riêng cảm xúc của mình. Đây chính là lần đầu tiên Binz thu hình một MV tại đất Mỹ.",
+    "linkImage": "https://i.scdn.co/image/ab6761610000e5eb6f9ec80eb4598f551999c3ae",
+    "listAlbum": [{
+        "idAlbum": "2022-4-4-4-pm",
+        "nameAlbum": "Tinh nhan oi",
+        "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02cde2790b0cc9301c9a2f44f6",
+        "priceAlbum": 300000,
+        "descriptionAlbum": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae nesciunt iste a obcaecati, rerum ullam dicta impedit provident voluptatum temporibus fuga possimus nihil mollitia voluptas qui odit! Facilis, fugiat laudantium?",
+        "listSong": [{
+                "idSong": "2021-4-5-11-pm",
+                "idCategory": "7",
+                "nameSong": "Tình nhân ơi",
+                "imageSong": "https://i.scdn.co/image/ab67616d00001e02cde2790b0cc9301c9a2f44f6",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/album/3zWndQdGgtuMOtv8Nq8mI5?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "time": "4 min 14 sec",
+                "lyrics": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            },
+            {
+                "idSong": "2020-4-5-11-pm",
+                "idCategory": "3",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/album/3zWndQdGgtuMOtv8Nq8mI5?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Bigcityboi",
+                "imgSong": "https://i.scdn.co/image/ab67616d00001e02d410f21b162cebe2fb4cd562",
+                "time": "3 min 21 sec",
+                "lyrics": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            }
+        ]
+    }]
+},
+{
+    "idSinger": "2019-4-5-7-pm",
+    "nicknameSinger": "Hương Ly",
+    "nameSinger": "Nguyễn Hương Ly",
+    "gender": "female",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!",
+    "linkImage": "https://i.scdn.co/image/ab67616d0000b273063529aa7e3f2d3cc79c7c21",
+    "listAlbum": [{
+        "idAlbum": "2044-11-20-5pm",
+        "nameAlbum": "Vui lắm nha",
+        "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02fd5652b179e175a6f7c85275",
+        "priceAlbum": 444443,
+        "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!",
+        "listSong": [{
+                "idSong": "2011-4-19-22-pm",
+                "idCategory": "4",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/3W7A57ncTB1kyW2JXRT2Ga?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Đau để trưởng thành",
+                "imgSong": "https://i.scdn.co/image/ab67616d0000b273fd5652b179e175a6f7c85275",
+                "time": "4 min 48 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            },
+            {
+                "idSong": "2011-4-18-22-pm",
+                "idCategory": "9",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/49SCzmvKnPtmbdPMvGB6NR?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Nếu Ngày Ấy",
+                "imgSong": "https://i.scdn.co/image/ab67616d0000b273fd5652b179e175a6f7c85275",
+                "time": "3 min 18 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            },
+            {
+                "idSong": "2011-4-18-22-pm",
+                "idCategory": "9",
+                "nameSong": "Nếu Ngày Ấy",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/49SCzmvKnPtmbdPMvGB6NR?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "imgSong": "https://i.scdn.co/image/ab67616d0000b273fd5652b179e175a6f7c85275",
+                "time": "3 min 18 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            }
+        ]
+    }]
+},
+{
+    "idSinger": "2006-2-6-4-2-am",
+    "nicknameSinger": "Alan Walker",
+    "nameSinger": "Alan Olav Walker",
+    "gender": "male",
+    "description": "Alan Olav Walker (born 24 August 1997) is a British-Norwegian DJ, YouTuber and record producer, primarily known for the critically acclaimed single 'Faded' (2015), which was certified platinum in 14 countries. Other songs include 'Sing Me to Sleep', 'Alone', 'Darkside', and 'Routine', all of which attracted millions of views.",
+    "linkImage": "https://i.scdn.co/image/ab67706f0000000351f5801c7cfb289e9e6fe7b9",
+    "listAlbum": [{
+            "idAlbum": "2011-3-43-5",
+            "nameAlbum": "World of Walker",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02df9a35baaa98675256b35177",
+            "priceAlbum": 441113,
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!",
+            "listSong": [{
+                    "idSong": "2121-4-5-9-10-am",
+                    "idCategory": "6",
+                    "nameSong": "Time - Alan Walker Remix",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/63dMNGUUu7rXX0NZYVO3Tm?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "imgSong": "https://seeded-session-images.scdn.co/v1/img/track/63dMNGUUu7rXX0NZYVO3Tm/en",
+                    "time": "2 min 40 sec",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+                },
+                {
+                    "idSong": "2121-4-5-5-10-am",
+                    "idCategory": "9",
+                    "nameSong": "Man on the Moon",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/0zqBZqm5czQ3A4EoSdKFHj?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "imgSong": "https://seeded-session-images.scdn.co/v1/img/track/63dMNGUUu7rXX0NZYVO3Tm/en",
+                    "time": "2 min 58 sec",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+                }
+            ]
+        },
+        {
+            "idAlbum": "2017-22-5-5-7-am",
+            "nameAlbum": "Different World",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02a108e07c661f9fc54de9c43a",
+            "priceAlbum": 423232,
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!",
+            "listSong": [{
+                    "idSong": "2011-4-5-6-10-pm",
+                    "idCategory": "2",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/7dcmZskqXONZuIuqGRLJ1C?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Lost Control",
+                    "imgSong": "https://seeded-session-images.scdn.co/v1/img/track/63dMNGUUu7rXX0NZYVO3Tm/en",
+                    "time": "3 min 42 sec",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+                },
+                {
+                    "idSong": "2010-4-5-6-10-pm",
+                    "idCategory": "9",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/7kVDkZkZc8qBUBsF6klUoY?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "I don't wanna go",
+                    "imgSong": "https://seeded-session-images.scdn.co/v1/img/track/63dMNGUUu7rXX0NZYVO3Tm/en",
+                    "time": "3 min 42 sec",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+                },
+                {
+                    "idSong": "2010-4-7-6-10-pm",
+                    "idCategory": "3",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/0lks2Kt9veMOFEAPN0fsqN?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Lily",
+                    "imgSong": "https://seeded-session-images.scdn.co/v1/img/track/63dMNGUUu7rXX0NZYVO3Tm/en",
+                    "time": "3 min 16 sec",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+                }
+            ]
+        }
+    ]
+},
+{
+    "idSinger": "1999-3-5-7-2-pm",
+    "nicknameSinger": "Bích Phương",
+    "nameSinger": "Bùi Thị Bích Phương",
+    "gender": "female",
+    "description": "Bùi Thị Bích Phương (born September 30, 1989, in Quang Ninh), better known as Bích Phương is a Vietnamese Pop Music singer. She entered the entertainment industry as a contestant of Season 3 of Vietnam Idol in 2010, and is since established as one of Vietnam's most popular singers of the 2010s.",
+    "linkImage": "https://i.scdn.co/image/ab67616d00001e02c169c710d50884f149e49427",
+    "listAlbum": [{
+        "idAlbum": "2111-4-5-1-12-pm",
+        "nameAlbum": "Dramatic",
+        "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02c169c710d50884f149e49427",
+        "priceAlbum": 999999,
+        "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!",
+        "listSong": [{
+                "idSong": "1957-41-4-1-12-pm",
+                "idCategory": "7",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Chị ngã em nâng",
+                "imgSong": "https://i.scdn.co/image/ab67616d00001e02c169c710d50884f149e49427",
+                "time": "4 min 023 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            },
+            {
+                "idSong": "1957-41-4-1-12-pm",
+                "idCategory": "6",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/3bEAVuzTJ1Pd4ZGj2ykqnB?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Chị ngã em nâng",
+                "imgSong": "https://i.scdn.co/image/ab67616d00001e02c169c710d50884f149e49427",
+                "time": "4 min 03 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            },
+            {
+                "idSong": "1956-41-4-1-12-pm",
+                "idCategory": "4",
+                "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1ZrADntHAYV84R2y1Op3Eg?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                "nameSong": "Bùa yêu",
+                "imgSong": "https://i.scdn.co/image/ab67616d00001e02c169c710d50884f149e49427",
+                "time": "3 min 4 sec",
+                "lyric": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci omnis ducimus, quibusdam alias officiis perspiciatis tempore error cupiditate ullam commodi, unde laborum eaque quo consectetur, suscipit placeat itaque laboriosam. Nemo!"
+            }
+        ]
+    }]
+},
+{
+    "idSinger": "4-5-42-4-5-24-pm",
+    "nicknameSinger": "Orange",
+    "nameSinger": "Khương Hoàn Mỹ",
+    "gender": "female",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+    "linkImage": "https://seed-mix-image.spotifycdn.com/v6/img/artist/5lAfakPZgxFKgiJD6xAF1G/en/large",
+    "listAlbum": [{
+            "idAlbum": "5-5-2-6-2-pm",
+            "nameAlbum": "mùa đông tình yêu",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02aad131a1d8c0a9fd12669392",
+            "priceAlbum": "66666",
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+            "listSong": [{
+                    "idSong": "6-6-3",
+                    "idCategory": "07",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "mùa đông tình yêu",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02aad131a1d8c0a9fd12669392",
+                    "time": "5:55",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "6-6-3",
+                    "idCategory": "07",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "mùa đông tình yêu",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02aad131a1d8c0a9fd12669392",
+                    "time": "5:55",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "6-6-3",
+                    "idCategory": "07",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "mùa đông tình yêu",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02aad131a1d8c0a9fd12669392",
+                    "time": "5:55",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "6-6-3",
+                    "idCategory": "07",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "mùa đông tình yêu",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02aad131a1d8c0a9fd12669392",
+                    "time": "5:55",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                }
+            ]
+        },
+        {
+            "idAlbum": "5-2-5-2-4-pm",
+            "nameAlbum": "Khác biệt to lớn",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+            "priceAlbum": "95324",
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+            "listSong": [{
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                }
+            ]
+        },
+        {
+            "idAlbum": "5-52-2-8-8",
+            "nameAlbum": "Là do em xui thôi",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e028faf0fc3a518f4f1d96d17f1",
+            "priceAlbum": "55334",
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+            "listSong": [{
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                }
+            ]
+        },
+        {
+            "idAlbum": "5-52-2-8-8",
+            "nameAlbum": "Juky San",
+            "imgAlbum": "https://i.scdn.co/image/ab67616d00001e02c1c719a58f96fff6d408d602",
+            "priceAlbum": "5533554",
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+            "listSong": [{
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                }
+            ]
+        },
+        {
+            "idAlbum": "5-42-2-8-8",
+            "nameAlbum": "Đôi mắt",
+            "imgAlbum": "https://seeded-session-images.scdn.co/v1/img/artist/57VqUzd3qVMPCzqZblwz7b/en",
+            "priceAlbum": "5554",
+            "descriptionAlbum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?",
+            "listSong": [{
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                },
+                {
+                    "idSong": "4-42-25-2-pm",
+                    "idCategory": "01",
+                    "iframeSpotify": "<iframe style='border-radius:12px' src='https://open.spotify.com/embed/track/1reHbbphR273qQ651F6Vna?utm_source=generator' width='100%' height='380' frameBorder='0' allowfullscreen='' allow='autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture'></iframe>",
+                    "nameSong": "Khác biệt to lớn",
+                    "imgSong": "https://i.scdn.co/image/ab67616d00001e02ecfe734e4c9c10cbd252360a",
+                    "time": "4:20",
+                    "lyric": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, nam explicabo veritatis necessitatibus sapiente perferendis beatae dolores error quod temporibus vel optio repellendus impedit quam dolore nobis, corrupti labore sunt?"
+                }
+            ]
+        }
+    ]
+}
+
+]

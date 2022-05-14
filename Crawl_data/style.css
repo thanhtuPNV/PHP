@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerr{
+    width: 75%;
+    margin: 0 auto;
+    top: 10px;
+    position: relative;
+}
+.head{
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.head_display{
+    position: absolute;
+    bottom:0;
+    left:0;
+    top: 0;
+}
+/* .head_display > .flex-giua{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+} */
+/* .flex{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+    column-gap: 30px;
+}
+.jus-end{
+}
+.jus-end > button{
+    outline: none;
+    border: none;
+} */
+#mot{
+    font-family: "Courier New";
+    font-size: 27px;
+    text-align: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    color: white;
+    position: relative;
+    top: -55px;
+    width: 30%;
+    margin: 0 auto;
+}
+.flex{
+    color: white;
+}
+.flex-giua{
+    text-align: center;
+    top: 200px;
+    position: relative;
+    /* align-items: center;
+    justify-content: center; */
+}
+#hai{
+    font-size: 45px;
+    font-family: ''Times New Roman', Times, serif';
+}
+#ba{
+    font-family: Arial;
+    
+}
+.flex-btn{
+    text-align: center;
+}
+.flex-btn-2{
+    width: 200px;
+    height: 55px;
+    top: 230px;
+    position: relative;
+    border: none;
+    outline: none;
+}
+.modal-content-drag{
+    margin-left: 710px;
+    margin-top: -30px;
+    height: 100vh;
+    /* position: fixed; */
+}
+.Book_now{
+    margin-left: 160px;
+}
+.footer{
+    width: 100%;
+}
+.img-footer{
+    width: 98%;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+.footer-content{
+    position: relative;
+    top: 30px;
+    display: flex;
+    gap: 190px;
+    width: 100%;
+    text-align: center;
+    /* align-items: center;  */
+    justify-content: center;
+    /* margin: 0 auto;  */
+}
+.text-lon{
+    font-family: "Courier New";
+    font-size: 20px;
+}
+.text-nho{
+    font-family: "Verdana";
+}
+.footer-content-1{
+    display: flex;
+    gap: 160vh;
+    justify-content: center;
+}
+.modal-text{
+    font-size: 20px;
+    font-family: Courier;
+    justify-content: start;
+}
+/* https://www.sailingcollective.com/ */
